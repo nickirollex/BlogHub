@@ -1,0 +1,34 @@
+.something{
+  background-color: rgb(14, 13, 13);
+  color: white;
+  margin-top: 100px;
+  padding: 20px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nv{
+  display: flex;
+  justify-content: space-between;
+  padding: 16px;
+}
+.nv .link{
+  padding: 2px;
+  margin-right: 40px;
+}
+.link a{
+  color: white;
+  padding: 15px;
+}
+.link a:hover{
+  background-color: white;
+  color: black;
+ 
+}
+.brand{
+  font-size: 40px;
+  font-family: monospace;
+  font-weight: bold;
+}
